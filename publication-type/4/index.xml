@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Yikun&#39;s Homepage</title>
+    <link>https://yikunh.github.io/publication-type/4/</link>
+      <atom:link href="https://yikunh.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_512x512_fill_lanczos_center_3.png</url>
+      <title>4</title>
+      <link>https://yikunh.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>An empirical study of security issues in SSO server-side implementations</title>
+      <link>https://yikunh.github.io/publication/wang-2022-b/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/wang-2022-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

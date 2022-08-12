@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software | Yikun&#39;s Homepage</title>
+    <link>https://yikunh.github.io/tag/software/</link>
+      <atom:link href="https://yikunh.github.io/tag/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_512x512_fill_lanczos_center_3.png</url>
+      <title>Software</title>
+      <link>https://yikunh.github.io/tag/software/</link>
+    </image>
+    
+    <item>
+      <title>Automatically Patching Vulnerabilities of Binary Programs via Code Transfer From Correct Versions</title>
+      <link>https://yikunh.github.io/publication/hu-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/hu-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

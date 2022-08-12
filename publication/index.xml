@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Yikun&#39;s Homepage</title>
+    <link>https://yikunh.github.io/publication/</link>
+      <atom:link href="https://yikunh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://yikunh.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>An empirical study of security issues in SSO server-side implementations</title>
+      <link>https://yikunh.github.io/publication/wang-2022-b/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/wang-2022-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcode: Detecting Status Code Mapping Errors in Large-Scale Systems</title>
+      <link>https://yikunh.github.io/publication/tang-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/tang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semantics-Based Hybrid Approach on Binary Code Similarity Comparison</title>
+      <link>https://yikunh.github.io/publication/hu-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/hu-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatically Patching Vulnerabilities of Binary Programs via Code Transfer From Correct Versions</title>
+      <link>https://yikunh.github.io/publication/hu-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/hu-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BinMatch: A Semantics-Based Hybrid Approach on Binary Code Clone Analysis</title>
+      <link>https://yikunh.github.io/publication/hu-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/hu-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embroidery: Patching Vulnerable Binary Code of Fragmentized Android Devices</title>
+      <link>https://yikunh.github.io/publication/zhang-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/zhang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binary Code Clone Detection across Architectures and Compiling Configurations</title>
+      <link>https://yikunh.github.io/publication/hu-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/hu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Architecture Binary Semantics Understanding via Similar Code Comparison</title>
+      <link>https://yikunh.github.io/publication/hu-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/hu-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
