@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Yikun&#39;s Homepage</title>
+    <link>https://yikunh.github.io/news/</link>
+      <atom:link href="https://yikunh.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://yikunh.github.io/news/</link>
+    </image>
+    
+    <item>
+      <title>News</title>
+      <link>https://yikunh.github.io/news/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/news/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+[Oct. 12, 2022] Congrats to Yizhuo on his ACSAC&#39;22 paper on confused deputy detection in AppleOS.
+</description>
+    </item>
+    
+  </channel>
+</rss>
