@@ -5,12 +5,20 @@
     <link>https://yikunh.github.io/publication-type/1/</link>
       <atom:link href="https://yikunh.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://yikunh.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>RGDroid: Detecting Android Malware with Graph Convolutional Networks against Structural Attacks</title>
+      <link>https://yikunh.github.io/publication/li-2023/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/li-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>iService: Detecting and Evaluating the Impact of Confused Deputy Problem in AppleOS</title>
