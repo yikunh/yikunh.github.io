@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Principles of Compilation (Fall 2022)</title>
-      <link>https://yikunh.github.io/talk/principles-of-compilation-fall-2022/</link>
+      <title>Principles of Compilation (NIS2336)</title>
+      <link>https://yikunh.github.io/talk/principles-of-compilation-nis2336/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yikunh.github.io/talk/principles-of-compilation-fall-2022/</guid>
+      <guid>https://yikunh.github.io/talk/principles-of-compilation-nis2336/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software System Security (NIS3369)</title>
+      <link>https://yikunh.github.io/talk/software-system-security-nis3369/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/talk/software-system-security-nis3369/</guid>
       <description></description>
     </item>
     
