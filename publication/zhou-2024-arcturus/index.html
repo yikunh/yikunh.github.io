@@ -70,10 +70,10 @@
   
     
   
-  <meta name="description" content="Cooperating with Dr. Yueguo ZHANG and Dr. Jiaping GUI" />
+  <meta name="description" content="Binary code similarity analysis is extremely useful since it provides rich information about an unknown binary, such as revealing its functionality and identifying reused libraries. Robust binary similarity analysis is challenging as heavy compiler optimizations can make semantically similar binaries have gigantic syntactic diferences. Unfortunately, existing semantic-based methods still sufer from either incomplete coverage or low accuracy. In this paper, we propose ARCTURUS, a new technique that can achieve high code coverage and high accuracy simultaneously by manipulating program execution under the guidance of code reachability. Our key insight is that the compiler must preserve program semantics (e.g., dependences between code fragments) during compilation; therefore, the code reachability, which implies the interdependence between code, is invariant across code transformations. Based on the above insight, our key idea is to leverage the stability of code reachability to manipulate the program execution such that deep code logic can also be covered in a consistent way. Experimental results show that ARCTURUS achieves an average precision of 87.8% with 100% block coverage, outperforming compared methods by 38.4% on average. ARCTURUS takes only 0.15 seconds to process one function on average, indicating that it is eicient for practical use. CCS Concepts: $·$ Security and privacy $i̊ghtarrow$ Software reverse engineering." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://yikunh.github.io/talk/software-system-security-nis3369/" />
+  <link rel="alternate" hreflang="en-us" href="https://yikunh.github.io/publication/zhou-2024-arcturus/" />
 
   
   
@@ -284,7 +284,7 @@
   <link rel="icon" type="image/png" href="../../media/icon_hu042591881466103865053d5bf5152f3a_10074_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="../../media/icon_hu042591881466103865053d5bf5152f3a_10074_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://yikunh.github.io/talk/software-system-security-nis3369/" />
+  <link rel="canonical" href="https://yikunh.github.io/publication/zhou-2024-arcturus/" />
 
   
   
@@ -295,6 +295,7 @@
   
   
     
+    
   
   
 
@@ -303,27 +304,35 @@
     
     
   
-  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:card" content="summary" />
   
     <meta property="twitter:site" content="@yixiaoxian" />
     <meta property="twitter:creator" content="@yixiaoxian" />
   
   <meta property="og:site_name" content="Yikun&#39;s Homepage" />
-  <meta property="og:url" content="https://yikunh.github.io/talk/software-system-security-nis3369/" />
-  <meta property="og:title" content="Software System Security (NIS3369) | Yikun&#39;s Homepage" />
-  <meta property="og:description" content="Cooperating with Dr. Yueguo ZHANG and Dr. Jiaping GUI" /><meta property="og:image" content="https://yikunh.github.io/talk/software-system-security-nis3369/featured.png" />
-    <meta property="twitter:image" content="https://yikunh.github.io/talk/software-system-security-nis3369/featured.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://yikunh.github.io/publication/zhou-2024-arcturus/" />
+  <meta property="og:title" content="ARCTURUS: Full Coverage Binary Similarity Analysis with Reachability-Guided Emulation | Yikun&#39;s Homepage" />
+  <meta property="og:description" content="Binary code similarity analysis is extremely useful since it provides rich information about an unknown binary, such as revealing its functionality and identifying reused libraries. Robust binary similarity analysis is challenging as heavy compiler optimizations can make semantically similar binaries have gigantic syntactic diferences. Unfortunately, existing semantic-based methods still sufer from either incomplete coverage or low accuracy. In this paper, we propose ARCTURUS, a new technique that can achieve high code coverage and high accuracy simultaneously by manipulating program execution under the guidance of code reachability. Our key insight is that the compiler must preserve program semantics (e.g., dependences between code fragments) during compilation; therefore, the code reachability, which implies the interdependence between code, is invariant across code transformations. Based on the above insight, our key idea is to leverage the stability of code reachability to manipulate the program execution such that deep code logic can also be covered in a consistent way. Experimental results show that ARCTURUS achieves an average precision of 87.8% with 100% block coverage, outperforming compared methods by 38.4% on average. ARCTURUS takes only 0.15 seconds to process one function on average, indicating that it is eicient for practical use. CCS Concepts: $·$ Security and privacy $i̊ghtarrow$ Software reverse engineering." /><meta property="og:image" content="https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
+      <meta
+        property="article:published_time"
+        content="2024-06-05T10:22:21&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2024-06-05T18:22:21&#43;08:00">
   
 
   
 
 
-
-  
     
+
+
+
+
+
 
 
 
@@ -331,29 +340,34 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Event",
+  "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://yikunh.github.io/talk/software-system-security-nis3369/"
+    "@id": "https://yikunh.github.io/publication/zhou-2024-arcturus/"
   },
-  "name": "Software System Security (NIS3369)",
+  "headline": "ARCTURUS: Full Coverage Binary Similarity Analysis with Reachability-Guided Emulation",
   
+  "datePublished": "2024-06-05T10:22:21Z",
+  "dateModified": "2024-06-05T18:22:21+08:00",
   
-  "image": [
-    "https://yikunh.github.io/talk/software-system-security-nis3369/featured.png"
-  ],
-  
-  "startDate": "0001-01-01T00:00:00Z",
-  
-  
-  "performer": {
+  "author": {
     "@type": "Person",
-    "name": "Fall'24"
+    "name": "Anshunkang Zhou"
   },
   
-  "description": "Cooperating with Dr. Yueguo ZHANG and Dr. Jiaping GUI"
+  "publisher": {
+    "@type": "Organization",
+    "name": "SJTU",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Binary code similarity analysis is extremely useful since it provides rich information about an unknown binary, such as revealing its functionality and identifying reused libraries. Robust binary similarity analysis is challenging as heavy compiler optimizations can make semantically similar binaries have gigantic syntactic diferences. Unfortunately, existing semantic-based methods still sufer from either incomplete coverage or low accuracy. In this paper, we propose ARCTURUS, a new technique that can achieve high code coverage and high accuracy simultaneously by manipulating program execution under the guidance of code reachability. Our key insight is that the compiler must preserve program semantics (e.g., dependences between code fragments) during compilation; therefore, the code reachability, which implies the interdependence between code, is invariant across code transformations. Based on the above insight, our key idea is to leverage the stability of code reachability to manipulate the program execution such that deep code logic can also be covered in a consistent way. Experimental results show that ARCTURUS achieves an average precision of 87.8% with 100% block coverage, outperforming compared methods by 38.4% on average. ARCTURUS takes only 0.15 seconds to process one function on average, indicating that it is eicient for practical use. CCS Concepts: $·$ Security and privacy $i̊ghtarrow$ Software reverse engineering."
 }
 </script>
+
+  
 
   
 
@@ -390,7 +404,7 @@
 
 
 
-  <title>Software System Security (NIS3369) | Yikun&#39;s Homepage</title>
+  <title>ARCTURUS: Full Coverage Binary Similarity Analysis with Reachability-Guided Emulation | Yikun&#39;s Homepage</title>
 
   
   
@@ -410,7 +424,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="898004988ee41b36962de8bdda4a46a9" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a8db4d913fac7d4e37365ab3cf72b25f" >
 
   
   
@@ -714,7 +728,16 @@
     
     
 
-    <div class="pub">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
 
   
 
@@ -729,25 +752,18 @@
 
 
 
-
-
-
-
-
-
-
-
+  
 
   
   
-
-
+  
 <div class="article-container pt-3">
-  <h1>Software System Security (NIS3369)</h1>
+  <h1>ARCTURUS: Full Coverage Binary Similarity Analysis with Reachability-Guided Emulation</h1>
 
   
 
   
+    
 
 
 <div class="article-metadata">
@@ -760,42 +776,91 @@
     
 
   <span >
-      Fall&#39;24</span>, <span >
-      Fall&#39;23</span>
+      Anshunkang Zhou</span>, <span class="author-highlighted">
+      Yikun HU</span>, <span >
+      Xiangzhe Xu</span>, <span >
+      Charles Zhang</span>
   </div>
   
   
 
   
-
-  
-
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-
-
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 642px;">
-  <div style="position: relative">
-    <img src="../../talk/software-system-security-nis3369/featured_hud249fc0d5c0b49d8d186047ce64a2d1a_371012_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="642" alt="" class="featured-image">
+  <span class="article-date">
     
-  </div>
+    
+      
+    
+    January, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="../../publication/zhou-2024-arcturus/zhou-2024-arcturus.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/zhou-2024-arcturus/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1145/3640337" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+  
 </div>
 
 
@@ -803,29 +868,45 @@
   <div class="article-container">
 
     
-      <br>
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Binary code similarity analysis is extremely useful since it provides rich information about an unknown binary, such as revealing its functionality and identifying reused libraries. Robust binary similarity analysis is challenging as heavy compiler optimizations can make semantically similar binaries have gigantic syntactic diferences. Unfortunately, existing semantic-based methods still sufer from either incomplete coverage or low accuracy. In this paper, we propose ARCTURUS, a new technique that can achieve high code coverage and high accuracy simultaneously by manipulating program execution under the guidance of code reachability. Our key insight is that the compiler must preserve program semantics (e.g., dependences between code fragments) during compilation; therefore, the code reachability, which implies the interdependence between code, is invariant across code transformations. Based on the above insight, our key idea is to leverage the stability of code reachability to manipulate the program execution such that deep code logic can also be covered in a consistent way. Experimental results show that ARCTURUS achieves an average precision of 87.8% with 100% block coverage, outperforming compared methods by 38.4% on average. ARCTURUS takes only 0.15 seconds to process one function on average, indicating that it is eicient for practical use. CCS Concepts: $·$ Security and privacy $i̊ghtarrow$ Software reverse engineering.</p>
     
 
+    
+    
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <p>Journal article</p>
+          </div>
         </div>
       </div>
       <div class="col-md-1"></div>
     </div>
     <div class="d-md-none space-below"></div>
-
     
 
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>ACM Transactions on Software Engineering and Methodology</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
 
     <div class="space-below"></div>
 
-    <div class="article-style">
-      
-    </div>
+    <div class="article-style"></div>
 
     
 
@@ -846,7 +927,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://yikunh.github.io/talk/software-system-security-nis3369/&amp;text=Software%20System%20Security%20%28NIS3369%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://yikunh.github.io/publication/zhou-2024-arcturus/&amp;text=ARCTURUS:%20Full%20Coverage%20Binary%20Similarity%20Analysis%20with%20Reachability-Guided%20Emulation" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -859,7 +940,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://yikunh.github.io/talk/software-system-security-nis3369/&amp;t=Software%20System%20Security%20%28NIS3369%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://yikunh.github.io/publication/zhou-2024-arcturus/&amp;t=ARCTURUS:%20Full%20Coverage%20Binary%20Similarity%20Analysis%20with%20Reachability-Guided%20Emulation" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -872,7 +953,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Software%20System%20Security%20%28NIS3369%29&amp;body=https://yikunh.github.io/talk/software-system-security-nis3369/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=ARCTURUS:%20Full%20Coverage%20Binary%20Similarity%20Analysis%20with%20Reachability-Guided%20Emulation&amp;body=https://yikunh.github.io/publication/zhou-2024-arcturus/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -885,7 +966,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://yikunh.github.io/talk/software-system-security-nis3369/&amp;title=Software%20System%20Security%20%28NIS3369%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://yikunh.github.io/publication/zhou-2024-arcturus/&amp;title=ARCTURUS:%20Full%20Coverage%20Binary%20Similarity%20Analysis%20with%20Reachability-Guided%20Emulation" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -898,7 +979,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Software%20System%20Security%20%28NIS3369%29%20https://yikunh.github.io/talk/software-system-security-nis3369/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=ARCTURUS:%20Full%20Coverage%20Binary%20Similarity%20Analysis%20with%20Reachability-Guided%20Emulation%20https://yikunh.github.io/publication/zhou-2024-arcturus/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -911,7 +992,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://yikunh.github.io/talk/software-system-security-nis3369/&amp;title=Software%20System%20Security%20%28NIS3369%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://yikunh.github.io/publication/zhou-2024-arcturus/&amp;title=ARCTURUS:%20Full%20Coverage%20Binary%20Similarity%20Analysis%20with%20Reachability-Guided%20Emulation" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -930,6 +1011,42 @@
 
 
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://yikunh.github.io/"><img class="avatar mr-3 avatar-square" src="../../authors/admin/avatar_hu4addb43f17f62800e683db3a0bb0461d_62681_270x270_fill_q75_lanczos_center.jpg" alt="Yikun HU"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://yikunh.github.io/">Yikun HU</a></h5>
+      <h6 class="card-subtitle">Assistant Research Fellow</h6>
+      <p class="card-text">I am working in <a href="https://loccs.sjtu.edu.cn/" target="_blank" rel="noopener">LoCCS</a> at SJTU. My research interests include <strong>Binary Program Analysis</strong> and <strong>Software Engineering</strong>. We are looking for motivated students interested in <strong>Software Security</strong> or <strong>AI Security</strong>. Feel free to contact us please, if you have an interest in researching or interning in our lab.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
   
     
 

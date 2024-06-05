@@ -1,0 +1,15 @@
+@article{zhou2024arcturus,
+ abstract = {Binary code similarity analysis is extremely useful since it provides rich information about an unknown binary, such as revealing its functionality and identifying reused libraries. Robust binary similarity analysis is challenging as heavy compiler optimizations can make semantically similar binaries have gigantic syntactic diferences. Unfortunately, existing semantic-based methods still sufer from either incomplete coverage or low accuracy. In this paper, we propose ARCTURUS, a new technique that can achieve high code coverage and high accuracy simultaneously by manipulating program execution under the guidance of code reachability. Our key insight is that the compiler must preserve program semantics (e.g., dependences between code fragments) during compilation; therefore, the code reachability, which implies the interdependence between code, is invariant across code transformations. Based on the above insight, our key idea is to leverage the stability of code reachability to manipulate the program execution such that deep code logic can also be covered in a consistent way. Experimental results show that ARCTURUS achieves an average precision of 87.8% with 100% block coverage, outperforming compared methods by 38.4% on average. ARCTURUS takes only 0.15 seconds to process one function on average, indicating that it is eicient for practical use. CCS Concepts: $·$ Security and privacy $i̊ghtarrow$ Software reverse engineering.},
+ author = {Zhou, Anshunkang and Hu, Yikun and Xu, Xiangzhe and Zhang, Charles},
+ doi = {10.1145/3640337},
+ file = {files/1437/Zhou et al. - 2024 - ARCTURUSs.pdf},
+ issn = {1049-331X, 1557-7392},
+ journal = {ACM Transactions on Software Engineering and Methodology},
+ langid = {english},
+ month = {January},
+ pages = {3640337},
+ title = {ARCTURUS: Full Coverage Binary Similarity Analysis with Reachability-Guided Emulation},
+ urldate = {2024-01-17},
+ year = {2024}
+}
+
