@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>xVMP: An LLVM-based Code Virtualization Obfuscator (Tool Demo)</title>
+      <link>https://yikunh.github.io/publication/xiao-2023-xvmp/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/xiao-2023-xvmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>iService: Detecting and Evaluating the Impact of Confused Deputy Problem in AppleOS</title>
       <link>https://yikunh.github.io/publication/wang-2022-i/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
