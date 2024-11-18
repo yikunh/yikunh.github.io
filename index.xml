@@ -5,7 +5,7 @@
     <link>https://yikunh.github.io/</link>
       <atom:link href="https://yikunh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yikun&#39;s Homepage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_512x512_fill_lanczos_center_3.png</url>
       <title>Yikun&#39;s Homepage</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Strtune: data dependence-based code slicing for binary similarity detection with fine-tuned representation</title>
+      <link>https://yikunh.github.io/publication/he-2024-strtune/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/he-2024-strtune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ARCTURUS: Full Coverage Binary Similarity Analysis with Reachability-Guided Emulation</title>
       <link>https://yikunh.github.io/publication/zhou-2024-arcturus/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://yikunh.github.io/publication/zhou-2024-arcturus/</guid>
       <description></description>
     </item>
@@ -23,7 +31,7 @@
     <item>
       <title>On the (In)Security of Manufacturer-Provided Remote Attestation Frameworks in Android</title>
       <link>https://yikunh.github.io/publication/zhou-2024-a/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://yikunh.github.io/publication/zhou-2024-a/</guid>
       <description></description>
     </item>
@@ -302,6 +310,8 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;[&lt;i class=&#34;fa-solid fa-star&#34;&gt;&lt;/i&gt;&lt;par class=&#34;custom-kaiti-font&#34;&gt;长期&lt;/par&gt;] &lt;par class=&#34;custom-kaiti-font&#34;&gt;欢迎对程序分析和人工智能赋能的软件安全有兴趣的老师与同学与我交流联系。&lt;/par&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;i class=&#34;fa-solid fa-star&#34;&gt;&lt;/i&gt;&lt;par class=&#34;custom-kaiti-font&#34;&gt;长期&lt;/par&gt;] &lt;par class=&#34;custom-kaiti-font&#34;&gt;欢迎有志于从事相关领域研究和工作或者想在&lt;/par&gt; LoCCS &lt;par class=&#34;custom-kaiti-font&#34;&gt;实习的同学与我联系。&lt;/par&gt;&lt;/p&gt;
 &lt;p&gt;[Sept. 30] Congrats to Kaiyan for her paper on ML-assisted Binary Similarity Analysis accepted by TIFS.&lt;/p&gt;
 &lt;p&gt;[Aug. 15] Congrats to Ziyi for his paper on Android remote attestation accepted by ESORICS&#39;23.&lt;/p&gt;
 

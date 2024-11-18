@@ -5,7 +5,7 @@
     <link>https://yikunh.github.io/publication-type/2/</link>
       <atom:link href="https://yikunh.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Strtune: data dependence-based code slicing for binary similarity detection with fine-tuned representation</title>
+      <link>https://yikunh.github.io/publication/he-2024-strtune/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/he-2024-strtune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ARCTURUS: Full Coverage Binary Similarity Analysis with Reachability-Guided Emulation</title>
       <link>https://yikunh.github.io/publication/zhou-2024-arcturus/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://yikunh.github.io/publication/zhou-2024-arcturus/</guid>
       <description></description>
     </item>
