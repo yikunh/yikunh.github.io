@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Program Analysis | Yikun&#39;s Homepage</title>
+    <link>https://yikunh.github.io/tag/program-analysis/</link>
+      <atom:link href="https://yikunh.github.io/tag/program-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Program Analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_512x512_fill_lanczos_center_3.png</url>
+      <title>Program Analysis</title>
+      <link>https://yikunh.github.io/tag/program-analysis/</link>
+    </image>
+    
+    <item>
+      <title>基于二进制分析与重写的并发测试技术</title>
+      <link>https://yikunh.github.io/projects/huawei_2025_1/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/projects/huawei_2025_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网络设备内存木马检测技术</title>
+      <link>https://yikunh.github.io/projects/huawei_2025_0/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/projects/huawei_2025_0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>二进制相似代码检测及其在补丁代码分析中的应用</title>
+      <link>https://yikunh.github.io/projects/pujiang_talent_2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/projects/pujiang_talent_2022/</guid>
+      <description>&lt;p&gt;二进制代码相似性分析是软件安全最基础且重要的技术方法之一，其在现实有诸多有价值的应用，包括已知漏洞检测、恶意软件分析、补丁代码分析等，其核心挑战在于语义保持的代码变换，比如编译器优化、代码混淆等，使得即便是相同源代码编译得到的二进制代码在语法和代码结构层面上差别巨大。尽管多年以来该研究课题得到了学术界和工业界的共同关注，且投入了大量努力，相关方法的现实表现距离预期依然有明显的距离，其主要原因在于分析精度和效率的天然矛盾，即越加精准的分析方法就越耗时，而越加高效的方法分析精度就越加不可靠。因此，本研究从二进制代码相似性分析技术出发，研究更加精准并且具有实用价值的分析方法，并测试其在补丁代码分析、恶意软件分析等场景中的效果。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
