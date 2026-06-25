@@ -5,20 +5,12 @@
     <link>https://yikunh.github.io/publication/</link>
       <atom:link href="https://yikunh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://yikunh.github.io/publication/</link>
     </image>
-    
-    <item>
-      <title>BinMoCo: Improving Binary Code Similarity Detection with Hard Sample-Aware Momentum Contrastive Learning</title>
-      <link>https://yikunh.github.io/publication/wu-2026-binmoco/</link>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://yikunh.github.io/publication/wu-2026-binmoco/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Binary Cryptographic Function Identification via Similarity Analysis with Path-Insensitive Emulation</title>
