@@ -5,12 +5,20 @@
     <link>https://yikunh.github.io/</link>
       <atom:link href="https://yikunh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yikun Hu | Software Security</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yikunh.github.io/media/icon_hu042591881466103865053d5bf5152f3a_10074_512x512_fill_lanczos_center_3.png</url>
       <title>Yikun Hu | Software Security</title>
       <link>https://yikunh.github.io/</link>
     </image>
+    
+    <item>
+      <title>Revisiting Graph Representations for ML-based Binary Code Similarity Detection: A Systematic Study</title>
+      <link>https://yikunh.github.io/publication/yang-2026/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://yikunh.github.io/publication/yang-2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>基于二进制分析与重写的并发测试技术</title>
